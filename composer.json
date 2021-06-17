@@ -1,0 +1,8 @@
+{
+  
+    "name": "rivhit/rivhit",
+    "require": {
+        "rivhit/rivhit": "*.*"
+    
+}
+}
