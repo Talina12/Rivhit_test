@@ -1,8 +1,5 @@
 {
   
-    "name": "rivhit/rivhit",
-    "require": {
-        "rivhit/rivhit": "*.*"
+    "name": "rivhit/rivhit"
     
-}
 }
